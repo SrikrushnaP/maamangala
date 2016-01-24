@@ -28,15 +28,9 @@
 <div id="contact" style="background-color:#999">
 <pre style="font-size:1.3em; text-align:center">
 <h1 style="color:white"><u>CONTACT US</u> </h1>
-Address :     REGIONAL TRANSPORT OFFICE
-  		       NAKTIGUDA, BHAWANIPATNA, KALAHANDI
-PIN- 766001
-
-Phone No :    06670-230545		
-   
-Email Id :     rto_kalahandi@yahoo.co.in
-   
-Website  :				
+Name: Deepak Sagar Behera- MD
+	  Jyoti Prakash Panda- Chip Programer
+	  Srikrushna Pal- Import Export Head
    
    </pre>
 </div>
