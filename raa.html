@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Slider</title>
+<style>
+.slider{
+	width:800px;
+	height:350px;
+	overflow:hidden;
+	margin:30px auto;
+}
+.shadow{
+	background-image:url(images/slider-shadow.png);
+	background-repeat:no-repeat;
+	background-position:top;
+	width:864px;
+	height:144px;
+	margin:-130px auto;
+}
+
+</style>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript">
+	function slider(){
+		$(".slider#1").show("fade",500)	
+		$(".slider#1").delay(5500).hide("slide",{ direction:"left"},500);
+	}
+
+</script>
+</head>
+
+<body onLoad="slider()">
+<div class="slider">
+	<img src="images/jquery-ajax.png">
+    <img src="images/jquerymobile-phonegap.png">
+    <img src="images/web-design.png">
+</div>
+<div class="shadow"></div>
+</body>
+</html>
