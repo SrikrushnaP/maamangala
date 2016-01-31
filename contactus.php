@@ -7,7 +7,6 @@
 	<link href="css/image-slider.css" rel="stylesheet" type="text/css" />
     <script src="js/js-image-slider.js" type="text/javascript"></script>
     
-    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="3/ninja-slider.css" rel="stylesheet" />
     <script src="3/ninja-slider.js"></script>
